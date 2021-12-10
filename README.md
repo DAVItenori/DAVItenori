@@ -1,16 +1,9 @@
 ## Olá, tudo bem ? 👋
 
-#### Me chamo Davi.
+#### Me chamo Davi, atualmente curso o Bacharelado em Ciência da Computação.
 
 ---
-
 #### 🔭 Em busca de experiência!
-#### 🌱 Estou cursando ciência da computação.
-#### 👯 Quero poder colaborar com todos os colegas de classe, micro e grandes empresas.
-#### 🤔 Eu procuro ajuda para desenvolver sistemas.
-#### 💬 Pode me perguntar sobre, desenvolvimento ágil, SQL , Programação orientada a objetos.
-#### 📫 Me siga no linkedin!
-#### 😄 Sorria!
 #### ⚡ Fato curioso: Viciado em academia e corrida.
 
 ---
