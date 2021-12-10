@@ -4,8 +4,7 @@
 #### Cursando Ciência da Computação 5/8. 
 
 ---
-#### 🔭 Em busca de experiência!
-#### ⚡ Fato curioso: Viciado em academia e corrida.
+#### ⚡ Em busca de experiência!
 
 ---
 
