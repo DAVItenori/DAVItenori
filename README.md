@@ -1,6 +1,7 @@
 ## Olá, tudo bem ? 👋
 
-#### Me chamo Davi, atualmente curso o Bacharelado em Ciência da Computação.
+#### Me chamo Davi, 
+#### Cursando Ciência da Computação 5/8. 
 
 ---
 #### 🔭 Em busca de experiência!
