@@ -4,7 +4,7 @@
 #### Cursando Ciência da Computação 5/8. 
 
 ---
-#### ⚡ Em busca de experiência!
+#### ⚡
 
 ---
 
