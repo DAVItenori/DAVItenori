@@ -1,10 +1,6 @@
 ## Olá, tudo bem ? 👋
 
-#### Me chamo Davi, 
-#### Cursando Ciência da Computação 5/8. 
-
----
-#### ⚡
+--
 
 ---
 
